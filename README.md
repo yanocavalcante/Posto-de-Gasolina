@@ -1,4 +1,4 @@
-# trabalho_poo
+# Trabalho POO
 Sistema desenvolvido para administração de um posto de gasolina, focado na parte interna da operação. Desenvolvido em volta de três secções principais: Cadastros, Financeiro e Movimento, explicadas a seguir.
   ## Cadastros:
 Funcionalidade focada no cadastro dos principais elementos que compõem um posto de gasolina que incluem: funcionários, clientes e produtos (lubrificantes e combustíveis).
